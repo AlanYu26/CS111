@@ -1,2 +1,2 @@
 # CS111
-CS111 projects
+CS111 MovieApp Final Project
